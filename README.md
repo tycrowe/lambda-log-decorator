@@ -1,4 +1,4 @@
-# Project Title: LambdaLogDecorator
+# Project Title: LambdaLogDecorator [For Python AWS Lambda Functions]
 
 ## Project Summary:
 The LambdaLogDecorator is a simple Python decorator that logs the input and output of a function.  I find it useful for 
