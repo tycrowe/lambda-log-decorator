@@ -1,4 +1,4 @@
-# Project Title: LambdaLogDecorator [For Python AWS Lambda Functions]
+# Project Title: LambdaLogDecorator
 
 ## Project Summary:
 The LambdaLogDecorator is a simple Python decorator that logs the input and output of a function.  I find it useful for 
@@ -8,6 +8,8 @@ quickly attaching common logging to a python-based AWS lambda function.
 - To provide a simple Python decorator that logs the input and output of a function.
 
 ## Usage
+This is meant for Python based AWS Lambda functions only.
+
 To use the LambdaLogDecorator, simply import the `log_decorator` function from the `lambda_log_decorator.py` file and
 decorate the function you want to log. Here is an example:
 
